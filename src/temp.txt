@@ -1,3 +1,0 @@
-<Route path="/test" element={<Test />} />{" "}
-      {/* Route for the Test component */}
-      <Route path="/dashboard" element={<Dashboard />} />
